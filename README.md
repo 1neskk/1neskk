@@ -66,7 +66,7 @@ Hi 👋, I'm Gabriel
 ## GitHub Stats
 
 
-|                                                                     My Stats                                                                     |
+<!--|                                                                     My Stats                                                                     |-->
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 <!-- | ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=1neskk&theme=react-dark&hide_border=true&area=true) | -->
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=1neskk&show_icons=true&theme=algolia)              | 
