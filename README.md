@@ -44,7 +44,8 @@ Hi 👋, I'm Gabriel
 ### Software
 
 <p>
-
+           
+	
 <img width ='40px' src="https://www.svgrepo.com/show/354520/visual-studio.svg"/>
 ![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
 ![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
