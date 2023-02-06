@@ -23,10 +23,6 @@ Hi 👋, I'm Gabriel
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <img width ='48px' src="https://www.svgrepo.com/show/349540/typescript.svg"/>
-<img width ='48px' src="https://www.svgrepo.com/show/354259/react.svg"/>
-<img width ='48px' src="https://www.svgrepo.com/show/306466/next-dot-js.svg"/>
-<img width ='48px' src="https://www.svgrepo.com/show/376337/node-js.svg"/>
-<img width ='48px' src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg"/>
 
 
