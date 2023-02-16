@@ -52,16 +52,6 @@ Hi 👋, I'm Gabriel
 
 
 
-### MISC
-
-<p>
-	
-<img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img width ='48px' src="https://www.svgrepo.com/show/184138/linux.svg"/>
-<img width ='48px' src="https://www.svgrepo.com/show/330767/kalilinux.svg"/>
-<!-- ![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
-![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg) -->
-
 
 
 
