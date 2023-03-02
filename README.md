@@ -16,7 +16,7 @@ Hi 👋, I'm Gabriel
 
 <p>
   
-	
+<img width ='48px' src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
 <img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img width ='48px' src="https://www.svgrepo.com/show/349540/typescript.svg"/>
