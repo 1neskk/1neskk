@@ -16,9 +16,10 @@ Hi 👋, I'm Gabriel
 
 <p>
   
-<img width ='48px' src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
+
 <img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img width ='48px' src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
 <img width ='48px' src="https://www.svgrepo.com/show/349540/typescript.svg"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg"/>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
