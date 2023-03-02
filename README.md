@@ -32,9 +32,9 @@ Hi 👋, I'm Gabriel
  ### Frameworks and Libraries
 
 <p>
-![image](https://user-images.githubusercontent.com/113075816/222307233-3eab3210-6b04-4f45-bf12-8ba5b7519672.png)
-![image](https://user-images.githubusercontent.com/113075816/222307077-3fb243f7-693a-4f2a-bf81-d25c3135faae.png)
-![image](https://user-images.githubusercontent.com/113075816/222307288-5dbbeec6-93e5-4cf5-be17-e0b93d578f69.png)
+![React](https://user-images.githubusercontent.com/113075816/222307233-3eab3210-6b04-4f45-bf12-8ba5b7519672.png)
+![Tailwind](https://user-images.githubusercontent.com/113075816/222307077-3fb243f7-693a-4f2a-bf81-d25c3135faae.png)
+![.NET](https://user-images.githubusercontent.com/113075816/222307288-5dbbeec6-93e5-4cf5-be17-e0b93d578f69.png)
 
 ### Software and Tools
 
