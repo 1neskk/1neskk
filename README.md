@@ -32,9 +32,9 @@ Hi 👋, I'm Gabriel
  ### Frameworks and Libraries
 
 <p>
-<img width ='48px' src="https://www.svgrepo.com/show/354259/react.svg"/>
+![image](https://user-images.githubusercontent.com/113075816/222307233-3eab3210-6b04-4f45-bf12-8ba5b7519672.png)
 ![image](https://user-images.githubusercontent.com/113075816/222307077-3fb243f7-693a-4f2a-bf81-d25c3135faae.png)
-<img width ='48px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
+![image](https://user-images.githubusercontent.com/113075816/222307288-5dbbeec6-93e5-4cf5-be17-e0b93d578f69.png)
 
 ### Software and Tools
 
