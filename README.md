@@ -33,7 +33,7 @@ Hi 👋, I'm Gabriel
  ### Frameworks and Libraries
 
 <p>
-<img width ='48px' src="https://user-images.githubusercontent.com/113075816/222838381-5475748b-d522-4ad0-9246-f281fc04c3d2.png"/>
+<img width ='48px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222307233-3eab3210-6b04-4f45-bf12-8ba5b7519672.png"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222307077-3fb243f7-693a-4f2a-bf81-d25c3135faae.png"/>
 <!-- <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222308651-311347f3-c59c-4293-b9b6-28d79ffa0be4.png"/> -->
