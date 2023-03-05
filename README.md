@@ -22,7 +22,7 @@ Hi 👋, I'm Gabriel
 <img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309413-7b484809-5133-4987-81c6-e49a446a9241.png"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg"/>
-<img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309317-5658f482-a85c-4b92-9191-d96626483ccf.png"/>
+<!-- <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309317-5658f482-a85c-4b92-9191-d96626483ccf.png"/> -->
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg"/>
