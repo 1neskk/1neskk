@@ -64,13 +64,13 @@ Hi 👋, I'm Gabriel
 <!--|                                                                     My Stats                                                                     |-->
 |:----------------------------------------------------------------------------------------------------------------------------------------------------:|
 <!-- | ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=1neskk&theme=react-dark&hide_border=true&area=true) | -->
-| [![1neskk's GitHub stats](https://github-readme-stats.vercel.app/api?username=1neskk&theme=synthwave)]              | 
+| [![1neskk's GitHub stats](https://github-readme-stats.vercel.app/api?username=1neskk&theme=dark)]              | 
 <!--| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1neskk&theme=algolia)                    | -->
     
 
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=1neskk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1neskk&layout=compact&theme=synthwave)]
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=1neskk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1neskk&layout=compact&theme=dark)]
 	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1neskk&label=Profile%20views&color=0e75b6&style=flat" alt="1neskk" /> </p> 
 
