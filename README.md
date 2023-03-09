@@ -68,7 +68,7 @@ Hi 👋, I'm Gabriel
 <!--| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1neskk&theme=algolia)                    | -->
     
 
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      Most Popular Repo                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1neskk&repo=imgui-loader&theme=algolia)]| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1neskk&layout=compact&theme=algolia)
 	
