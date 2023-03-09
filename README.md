@@ -70,7 +70,7 @@ Hi 👋, I'm Gabriel
 
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=1neskk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1neskk&layout=compact&theme=algolia)
+| ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1neskk&repo=imgui-loader&theme=algolia)]| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1neskk&layout=compact&theme=algolia)
 	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1neskk&label=Profile%20views&color=0e75b6&style=flat" alt="1neskk" /> </p> 
 
