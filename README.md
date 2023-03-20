@@ -7,8 +7,8 @@ Hi 👋, I'm Gabriel
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+computer+science+student!;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+<!-- [## Contribution Snake 
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)](url) -->
 
 ## My Tech Stack and Tools
 
