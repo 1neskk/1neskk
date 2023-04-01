@@ -18,7 +18,7 @@ Hi 👋, I'm Gabriel
   
 
 <!-- <img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> -->
-<img width ='50px' src="https://user-images.githubusercontent.com/113075816/229296363-96a6d20d-008f-47e2-ba1b-1bb471f9417b.png"/>
+<img width ='52px' src="https://user-images.githubusercontent.com/113075816/229296363-96a6d20d-008f-47e2-ba1b-1bb471f9417b.png"/>
 <img width ='48px' src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
 <img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309413-7b484809-5133-4987-81c6-e49a446a9241.png"/>
