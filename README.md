@@ -72,7 +72,7 @@ Hi 👋, I'm Gabriel
 
 |                                                                                                      Most Popular Repo                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1neskk&repo=RayTracing&theme=dark)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1neskk&layout=compact&theme=algolia)
+| ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1neskk&repo=RayTracing&theme=dark)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1neskk&layout=compact&theme=dark)
 	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1neskk&label=Profile%20views&color=0e75b6&style=flat" alt="1neskk" /> </p> 
 
