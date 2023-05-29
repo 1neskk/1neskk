@@ -1,10 +1,10 @@
-<h1 align="center">
+<!-- <h1 align="center">
 Hi 👋, I'm Gabriel
 
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+computer+science+student!;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+computer+science+student!;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg) -->
 
 
 <!-- [## Contribution Snake 
