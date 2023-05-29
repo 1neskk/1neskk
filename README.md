@@ -25,7 +25,7 @@ Hi 👋, I'm Gabriel
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309317-5658f482-a85c-4b92-9191-d96626483ccf.png"/>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<img width ='48px' height='24px' src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg"/>
+<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg"/>
 
 
 
@@ -37,7 +37,6 @@ Hi 👋, I'm Gabriel
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222307233-3eab3210-6b04-4f45-bf12-8ba5b7519672.png"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222307077-3fb243f7-693a-4f2a-bf81-d25c3135faae.png"/>
 <img width ='48px' src="https://res.cloudinary.com/practicaldev/image/fetch/s--_2L8a8d_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/klqhvdA.png"/>
-<img width ='48px' src="https://github.com/1neskk/1neskk/assets/113075816/39b33cc0-91bf-4910-ae6e-3f6f6ae2cf73"/>
 
 
 ### Software and Tools
