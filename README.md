@@ -49,8 +49,6 @@ Hi 👋, I'm Gabriel
 <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg"/>
-<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172722286-8f3ffc2b-593a-4670-9e9f-c77154f6763c.svg"/>
-<img width ='48px' src="https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg"/>
 
 
 
