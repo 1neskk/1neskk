@@ -19,7 +19,7 @@ Hi 👋, I'm Gabriel
 
 <img width ='44px' height ='48px' src="https://user-images.githubusercontent.com/113075816/229296458-933c6249-e7ae-4246-ac7d-b97044ea8a8e.png"/>
 <img width ='48px' src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
-<img width ='48px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img width ='48px' src="https://github.com/1neskk/1neskk/assets/113075816/f1b7f735-fef6-4285-b869-70a37000b9e7"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309413-7b484809-5133-4987-81c6-e49a446a9241.png"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg"/>
 <img width ='48px' src="https://user-images.githubusercontent.com/113075816/222309317-5658f482-a85c-4b92-9191-d96626483ccf.png"/>
