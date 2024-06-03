@@ -1,7 +1,7 @@
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1neskk&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-    
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1neskk&theme=dark&hide_border=true&border_radius=10)
+
 ### Top Languages   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1neskk&layout=compact&theme=dark) 
 	
