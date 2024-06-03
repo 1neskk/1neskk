@@ -58,7 +58,7 @@ Hi 👋, I'm Gabriel
 	
 ## GitHub Stats
 
-<a href="https://opgc.me/#/users/1neskk" target="_blank"><img src="https://api.opgc.me/githubs/users/1neskk/tag/?theme=dark" /></a>
+<!-- <a href="https://opgc.me/#/users/1neskk" target="_blank"><img src="https://api.opgc.me/githubs/users/1neskk/tag/?theme=dark" /></a> -->
 
 
 <!--|                                                                     My Stats                                                                     |-->
